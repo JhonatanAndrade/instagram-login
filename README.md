@@ -1,1 +1,1 @@
-# Criado durante o bootcamp de JavaScript Gamer Developer :satisfied:
+# Criado durante o Bootcamp de JavaScript Gamer Developer :satisfied:
